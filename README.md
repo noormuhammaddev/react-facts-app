@@ -41,7 +41,15 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository:
+To get started, simply clone this repository and run `npm` to install dependencies. You may need to go over some basic configuration steps.
 
-```sh
-git clone https://github.com/your-username/your-repo-name.git
+```
+# Clone the repository
+[git clone https://github.com/links2design/artists.git](https://github.com/noormuhammaddev/react-facts-app.git)
+cd react-facts-app
+
+# Install dependencies
+npm install
+
+# start application
+`npm start`
