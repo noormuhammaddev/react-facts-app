@@ -1,4 +1,4 @@
-# React TypeScript App with useReducer and useContext for State Management
+# React Facts App - (TypeScript, useReducer and useContext)
 
 This is a simple React application that manages records with the following features:
 
