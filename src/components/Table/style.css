@@ -1,0 +1,37 @@
+.table-wrapper {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.table-wrapper thead tr th {
+  text-align: left;
+  border-bottom: 2px solid #e7e7e7;
+  padding: 10px 16px;
+}
+
+.table-wrapper tbody tr td {
+  border-bottom: 1px solid #e7e7e7;
+  padding: 10px 16px;
+}
+
+.table-wrapper tbody tr td.actions {
+  width: 150px;
+}
+
+.table-wrapper tbody tr:hover td {
+  background-color: #f9f9f9;
+}
+
+.table-wrapper tbody tr td .actions-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.table-wrapper tbody tr td .actions-wrapper button {
+  text-transform: uppercase;
+}
+
+.table-wrapper tbody tr:last-child td {
+  border: none;
+}
